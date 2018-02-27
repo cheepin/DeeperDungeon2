@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep Dungeon2017", "Deep Dungeon2017.csproj", "{1F63D1DC-F9D5-4AAD-6978-07B4472F83AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep Dungeon2017.Plugins", "Deep Dungeon2017.Plugins.csproj", "{D7893F87-3D0D-5E4B-8423-549C214078F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep Dungeon2017.Editor", "Deep Dungeon2017.Editor.csproj", "{70D0FA8F-5832-134A-E4A1-23345B57C06F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F63D1DC-F9D5-4AAD-6978-07B4472F83AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F63D1DC-F9D5-4AAD-6978-07B4472F83AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F63D1DC-F9D5-4AAD-6978-07B4472F83AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F63D1DC-F9D5-4AAD-6978-07B4472F83AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7893F87-3D0D-5E4B-8423-549C214078F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7893F87-3D0D-5E4B-8423-549C214078F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7893F87-3D0D-5E4B-8423-549C214078F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7893F87-3D0D-5E4B-8423-549C214078F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D0FA8F-5832-134A-E4A1-23345B57C06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D0FA8F-5832-134A-E4A1-23345B57C06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D0FA8F-5832-134A-E4A1-23345B57C06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D0FA8F-5832-134A-E4A1-23345B57C06F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
